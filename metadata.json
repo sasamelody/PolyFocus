@@ -1,0 +1,5 @@
+{
+  "name": "PolyFocus",
+  "description": "A Lyubishchev-inspired Pomodoro timer with low-poly aesthetics and AI-powered time analysis.",
+  "requestFramePermissions": []
+}
